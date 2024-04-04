@@ -155,7 +155,7 @@ body{
 a{
     text-decoration: none;
 }
-.efa-cardf:hover{
+a:hover,.efa-cardf:hover{
     box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
     background-color:#c0c0c0;
     border-radius: 7px 7px 7px 7px;
